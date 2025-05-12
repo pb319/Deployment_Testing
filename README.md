@@ -3,6 +3,8 @@ This will be an attempt to deploy the same project into different cloud platform
 
 ## Project Structure
 
+```
 ├── app.py
 ├── model.pkl
 ├── requirements.txt
+```
