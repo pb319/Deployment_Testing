@@ -1,5 +1,5 @@
 # Deployment_Testing
-This will be an attempt to deploy the same project into different cloud platforms.
+This will be an attempt to demonstrate Customer Segmentation Usecase (Repo: Segment-Stream).
 
 ## Project Structure
 
